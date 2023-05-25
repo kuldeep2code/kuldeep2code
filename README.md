@@ -1,4 +1,4 @@
-![](https://github.com/kuldeep2code/kuldeep2code/blob/main/banner.png)
+![](https://github.com/kuldeep2code/kuldeep2code/blob/main/bn.png)
 
 <h1 align="center">Hi 👋, I'm Kuldeep Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
