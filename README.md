@@ -1,6 +1,6 @@
 ![](https://github.com/kuldeep2code/kuldeep2code/blob/main/bn.png)
 
-<h1 align="center">Hi 👋, I'm Kuldeep Sharma</h1>
+<h2 align="center">Hi 👋, I'm Kuldeep Sharma</h2>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep2code&label=Profile%20views&color=0e75b6&style=plastic" alt="kuldeep2code" /> </p>
